@@ -1,7 +1,4 @@
 Este archivo lo estoy agregando desde la branch master
 
-También le dejo:
-
-testing haciendo commit en la branch testing
 
 testing
