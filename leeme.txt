@@ -1,0 +1,1 @@
+Esta carpeta está destinada a almacenar un primer proyecto en Visual Studio con GIT
